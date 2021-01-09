@@ -102,6 +102,9 @@ p {
     width: 15%;
     margin: 20px 20px;
 }
+.new{
+  width:30%;
+}
 #pricing{
   padding: 100px;
   text-align: center;
